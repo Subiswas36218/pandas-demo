@@ -1,0 +1,7 @@
+id,name,age,signup_date,score,flag,age_numeric,score_numeric,signup_dt,name_filled
+1,Alice,25.0,2025-01-10,85.5,True,25.0,85.5,2025-01-10,Alice
+2,Bob,,,90.0,False,,90.0,,Bob
+3,Charlie,22.0,,,True,22.0,,,Charlie
+4,Unknown,40.0,2025-04-01,78.0,True,40.0,78.0,2025-04-01,Unknown
+5,Eve,,2025-05-05,88.0,False,,88.0,2025-05-05,Eve
+6,Frank,29.0,2025-06-06,,True,29.0,,2025-06-06,Frank

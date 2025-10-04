@@ -1,0 +1,8 @@
+id,name,age,signup_date,score,flag
+1,Alice,25,2025-01-10,85.5,True
+2,Bob,thirty,2025/02/15,90,False
+3,Charlie,22,15-03-2025,NaN,True
+4,,40,2025-04-01,78,True
+5,Eve,,2025-05-05,88,False
+6,Frank,29,2025-06-06,,True
+6,Frank,29,2025-06-06,88,True
